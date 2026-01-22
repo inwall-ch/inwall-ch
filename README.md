@@ -13,7 +13,7 @@
 </div>
 
 ### About me:
-- 🔭 I’m currently working on PHP and Laravel projects 
+- 🔭 Building high-load ready systems using Modular Monolith architecture and clean code principles
 - 🌱 I learn new development skills every month 
 - 💬 I'm keeping up with PHP developments
 - 📫 Reach me on [Telegram](https://t.me/inwall_ch)
