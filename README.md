@@ -34,6 +34,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat-square&logo=azure-devops&logoColor=white)
 
+### Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Subify](https://github.com/web-inwall/subify) | SaaS Subscription API | Pipeline, JSONB, Redis Rate Limiting |
+| [LoyaltyHub](https://github.com/web-inwall/loyalty-hub) | Bonus Processing | Optimistic Locking, Strategy Pattern |
+| [Emergency Notification](https://github.com/web-inwall/emergency-notification-system) | Emergency Alert System | CSV Import, SMS/Email/Telegram Integrations |
+
 ### Stat:
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=web-inwall&theme=github_dark" alt="">
