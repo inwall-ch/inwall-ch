@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Sergey</h1>
     <h3>PHP (Laravel) Developer</h3>
+    <h3>High-load Modular Monoliths | PostgreSQL JSONB | Redis Queues | DDD Lite</h3>
 </div>
 
 <div id="socials" align="center">
