@@ -25,7 +25,7 @@
   <li>🔗 Portfolio: 
     <a href="https://github.com/inwall-ch/subify" target="_blank">Subify</a> | 
     <a href="https://github.com/inwall-ch/loyalty-hub" target="_blank">LoyaltyHub</a> | 
-    <a href="https://github.com/inwall-ch/emergency-notification-system" target="_blank">Emergency Notification System</a>
+    <a href="https://github.com/inwall-ch/geo-fleet/" target="_blank">GeoFleet</a>
   </li>
 </ul>
 </section>
@@ -111,7 +111,7 @@
 |---------|-------------|------|
 | [Subify](https://github.com/inwall-ch/subify) | SaaS Subscription API | Engineered a multi-tier billing system using PostgreSQL JSONB for plan snapshots. Implemented Pipeline pattern for payment processing and rate limiting via Redis. |
 | [LoyaltyHub](https://github.com/inwall-ch/loyalty-hub) | Bonus Processing | Solved concurrency issues with Optimistic/Pessimistic locking and idempotent transactions. Built type-safe DTOs using Spatie/Laravel-Data. |
-| [Emergency Notification](https://github.com/inwall-ch/emergency-notification-system) | Emergency Notification System | Async notification system handling bulk CSV imports with Redis Queues (batching/chaining) and exponential backoff strategies. |
+| [GeoFleet](https://github.com/inwall-ch/geo-fleet/) | GeoFleet | Real-time logistics tracking system using PostgreSQL + PostGIS for high-precision spatial queries. Built a modular monolith with Laravel Reverb (WebSockets) and Redis Geo for live map visualization and efficient proximity search. |
 
 <br>
 
